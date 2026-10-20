@@ -39,7 +39,7 @@ The methods, the analysis decisions and the original implementation are the auth
 
 ## Citation
 
-Cite the paper above. A Zenodo DOI will be added on publication.
+DOI will be added on publication.
 
 ## Licence
 
